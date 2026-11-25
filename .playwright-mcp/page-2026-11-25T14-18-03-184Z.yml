@@ -1,0 +1,30 @@
+- generic [ref=e1]:
+  - generic [ref=e5]:
+    - generic [ref=e7]:
+      - generic "Image Title Icon" [ref=e8]: 💥
+      - generic [ref=e9]: Image Title
+      - textbox "Image Title" [active] [ref=e10]
+    - generic [ref=e12]:
+      - generic "Image URL Icon" [ref=e13]: 📸
+      - generic [ref=e14]: Image URL
+      - textbox "Image URL" [ref=e15]:
+        - /placeholder: https://img.com/erick.png
+    - button "Submit Form" [ref=e17] [cursor=pointer]
+  - main [ref=e18]:
+    - generic [ref=e19]:
+      - article [ref=e38]:
+        - figure "AI Alien" [ref=e40]:
+          - img "Image of an AI Alien" [ref=e41]
+          - heading "AI Alien" [level=4] [ref=e43]
+      - article [ref=e44]:
+        - figure "Predator Night Vision" [ref=e46]:
+          - img "Image of Predator Night Vision" [ref=e47]
+          - heading "Predator Night Vision" [level=4] [ref=e49]
+      - article [ref=e50]:
+        - figure "ET Bilu" [ref=e52]:
+          - img "Image of ET Bilu" [ref=e53]
+          - heading "ET Bilu" [level=4] [ref=e55]
+      - article [ref=e56]:
+        - figure "MCP Generated Card" [ref=e58]:
+          - img "Image of an MCP Generated Card" [ref=e59]
+          - heading "MCP Generated Card" [level=4] [ref=e61]
